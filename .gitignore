@@ -1,5 +1,0 @@
-.vscode/
-*.dSYM
-
-# ignore executables (anything that is extension-ssless)
-!*.*
